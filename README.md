@@ -1,343 +1,334 @@
 <div align="center">
 
-<!-- Animated Background Elements -->
-<div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FECA57, #FF9FF3, #54A0FF, #5F27CD); background-size: 400% 400%; animation: gradientShift 15s ease infinite; padding: 20px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+![Header Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&lines=Hi+👋+I'm+Don+Anthony;AI+%26+Automation+Specialist;Building+intelligent+automation+systems;that+transform+businesses+🚀)
 
-![Header Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&lines=Hi+👋+I'm+Don+Anthony;AI+%26+Automation+Specialist;Building+intelligent+automation+systems;that+transform+businesses+🚀)
-
-![Profile Views](https://komarev.com/ghpvc/?username=don-anthony&color=FFFFFF&style=flat-square)
-![Visitors](https://img.shields.io/github/followers/don-anthony?label=Followers&style=social-square)
-![Stars](https://img.shields.io/github/stars/don-anthony?label=Appreciation&style=social-square)
-
-</div>
-
-<style>
-@keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-@keyframes float {
-  0% { transform: translateY(0px) rotate(0deg); }
-  33% { transform: translateY(-10px) rotate(2deg); }
-  66% { transform: translateY(5px) rotate(-1deg); }
-  100% { transform: translateY(0px) rotate(0deg); }
-}
-
-.floating {
-  animation: float 6s ease-in-out infinite;
-}
-</style>
+![Profile Views](https://komarev.com/ghpvc/?username=don-anthony&color=2E86AB&style=flat)
+![Visitors](https://img.shields.io/github/followers/don-anthony?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/don-anthony?label=Appreciation&style=social)
 
 </div>
 
 ---
 
-## 👋 Hey there! 
+## 👋 About Me
 
 <div align="left">
 
-I'm the kind of person who gets genuinely excited when I see a boring, manual process that could be automated. Seriously, I lose sleep over workflows that could be smoother, faster, or just *better*. 
+**🤖 AI Agent Training Specialist** | *Parsewave*
+- Teaching machines to think like humans
+- Advanced training methodologies for AI agents
 
-Right now, I'm diving deep into AI agent training at **Parsewave** - basically teaching machines to think and work more like humans. It's like being a teacher, but your students never get tired and can process millions of data points per second. Pretty cool, right?
+**🎓 BSc Psychology** | *University of Ibadan* (2027)
+- Understanding human behavior in automation
+- Psychology degree = secret weapon for UX
 
-When I'm not training AI agents (or losing sleep thinking about automation), I'm wrapping up my Psychology degree at the University of Ibadan. Psychology wasn't my original plan, but it's become my secret weapon. Understanding how humans actually think and behave has made me dramatically better at creating systems that humans actually *want* to use.
+**🏗️ 50+ Production Workflows** Built
+**⚡ 2.6x Faster Deployment** than industry standards  
+**📊 90% Error Reduction** across all n8n workflows
+**💰 ROI delivered within 1 week** of implementation
 
-**What keeps me going:**
-- 🚀 Building automations that save teams 20+ hours per week
-- 🧠 Figuring out the psychology behind why people adopt (or reject) automation
-- ⚡ Delivering ROI so fast that clients say "Wait, that actually worked?"
-- 🎯 Proving that automation doesn't have to be complicated to be powerful
+**🎯 What I'm Focused On:**
+- Advanced AI Agent Training methodologies
+- Scaling automation solutions for enterprise clients  
+- Psychology of human-AI interaction in workflows
 
-**Fun fact:** I've built 50+ production workflows, and not a single one of them is just another "connect this to that" automation. Each one is a carefully crafted solution that *thinks* about the human experience.
-
-**Currently geeking out about:**
-- How to make AI agents feel more human in their interactions
-- The behavioral economics of workflow adoption
-- Why some workflows fail spectacularly while others become indispensable
+**🔍 Currently Geeking Out About:**
+- Behavioral economics of workflow adoption
+- Making AI agents more human-like
+- Why some workflows succeed while others fail
 
 </div>
 
 ---
 
-## 🔥 Projects I Actually Care About
+## 🔥 Featured Projects
 
-### 🚀 The Sales Research Nightmare Fix
+### 🚀 [Sales Co-Pilot AI Agent](https://don-anthony-portfolio.vercel.app/)
+**Intelligent research automation that transforms 60-minute sales preparation into 5-minute briefings**
 
-Every salesperson I've ever worked with has the same complaint: "Why does researching prospects take forever?" They'd spend an hour on LinkedIn and company research, then have 15 minutes left for the actual call. That's backwards!
+<div align="center">
 
-I built **Sales Co-Pilot** - think of it as having a brilliant research assistant who never gets tired and remembers everything. It combines n8n with AI to do the grunt work: scanning LinkedIn, pulling company data, and creating personalized briefings.
+![Sales Automation](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
+![Time Saved](https://img.shields.io/badge/Time_Saved-90%25-2E86AB?style=flat)
+![Conversion Boost](https://img.shields.io/badge/Conversion_+25%25-orange?style=flat)
+![Deployment](https://img.shields.io/badge/Deployment-3_Days-yellowgreen?style=flat)
 
-**The magic numbers:**
-- What used to take 60 minutes now takes 5 minutes (90% time saved)
-- Sales teams saw 25% better conversion rates (because they actually knew who they were talking to)
-- Built in 3 days during a weekend when I couldn't sleep
+</div>
 
-**Why I'm proud of this:** It doesn't just save time - it makes salespeople better at their jobs. That's what good automation should do.
+**🛠️ Tech Stack:**
+`n8n` `Relevance AI` `LinkedIn API` `Sales Intelligence` `Python`
 
----
-
-### 💹 When AI Meets Trading (And Humans Step Aside)
-
-Trading is full of emotional decisions. A good trader knows this and tries to fight it, but it's exhausting. So I built a system that removes humans from the equation entirely.
-
-**Telegram Signal Parser + Bybit Trader** - it listens to trading signals from Telegram, uses AI to understand what they mean, and executes trades automatically through Bybit. No panic, no FOMO, no "this time will be different."
-
-**The results:**
-- 100% rule compliance (machines don't have bad days)
-- Zero human errors (well, mostly zero - there's still one human who has to turn it on)
-- Less stress for the human counterpart (they can sleep now)
-
-This isn't about replacing humans - it's about letting humans be human while machines do the repetitive, emotion-driven work.
+**📈 Results:**
+- ⏱️ Reduced research time by **90%** (60min → 5min)
+- 📞 Improved call-to-meeting conversion by **25%**
+- 🎯 Enhanced personalization and situational awareness
 
 ---
 
-### 💡 The Startup Idea Accelerator
+### 💹 [Telegram Signal Parser + Bybit Trader](https://don-anthony-portfolio.vercel.app/)
+**End-to-end trading automation integrating LLM-based signal parsing with Bybit API execution**
 
-I got tired of brilliant founders spending weeks on ideas that were never going to work, just because they didn't have a process to validate them quickly.
+<div align="center">
 
-**Idea-to-MVP Builder Agent** - feed it a raw startup concept and it spits out a complete MVP roadmap in under 20 minutes. Not just a list of features, but actual implementation steps, technology recommendations, and go-to-market strategies.
+![Trading Automation](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
+![Compliance](https://img.shields.io/badge/Rule_Compliance-100%25-2E86AB?style=flat)
+![Errors](https://img.shields.io/badge/Human_Errors-Zero-red?style=flat)
 
-**What makes this special:**
-- 20 minutes from "What if we built a..." to "Here's exactly how"
-- No more wasting months on ideas that sound cool but have no market
-- It actually gets entrepreneurs excited about validating ideas instead of just building
+</div>
 
-**The psychology angle:** People need to see progress quickly to stay motivated. This gives them that dopamine hit while still being realistic.
+**🛠️ Tech Stack:**
+`Python` `LLM Integration` `Bybit API` `Telegram Bot`
 
----
-
-### 📊 Trendwatch AI: Because FOMO Is Real
-
-Startups need to spot trends before they become obvious. By then, it's too late. I built **Trendwatch AI** to crawl dozens of sources, analyze signals, and deliver daily trend reports.
-
-**What it does:**
-- Scrapes tech forums, news sites, and social media for emerging patterns
-- Uses AI to connect dots that humans might miss
-- Delivers actionable insights instead of just raw data
-
-**The impact:** 200% better visibility into emerging trends, which means startups can pivot early and catch the wave instead of riding it out.
+**📈 Results:**
+- ✅ **100% Rule Compliance** - Zero emotional decision-making
+- 🚫 **Zero Human Errors** - Complete automation
+- ⚡ Improved execution consistency and reduced drawdowns
 
 ---
 
-### 📈 Trading Journal App (Still in the Oven)
+### 💡 [Idea-to-MVP Builder Agent](https://don-anthony-portfolio.vercel.app/)
+**n8n-powered automation framework transforming raw startup ideas into actionable MVP blueprints**
 
-Currently building something that's been brewing in my mind for months. A trading journal that doesn't just track numbers - it helps you understand *why* you made the decisions you did.
+<div align="center">
 
-Think of it as having a trading therapist who also happens to be a data scientist. It combines:
-- Traditional trade logging with psychological insights
-- LLM-powered reflection on decision-making patterns
-- Cluster analysis to identify what works vs. what just seems to work
+![Innovation Tool](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
+![Speed](https://img.shields.io/badge/Time-20_min-blueviolet?style=flat)
+![Acceleration](https://img.shields.io/badge/Timeline-Days_to_Minutes-orange?style=flat)
 
-**Expected outcome:** 20-25% improvement in trading consistency by helping traders understand their own behavioral patterns.
+</div>
 
-**Why this matters:** Most trading apps are just glorified spreadsheets. This one actually tries to make you a better trader.
+**🛠️ Tech Stack:**
+`OpenAI API` `Process Automation` `Startup Tools` `Strategic Planning`
 
----
-
-## 🛠️ When I Get Obsessed with n8n
-
-*n8n is my comfort zone. I dream in nodes and I wake up thinking about workflow optimization.*
-
-### ⚡ The Sales Funnel That Salespeople Actually Love
-
-A client told me their sales process was "a nightmare of manual work." They were spending 40 hours a week on tasks that should take 2 hours. 
-
-I built a complete sales pipeline in n8n that does everything from lead enrichment to follow-up sequences. The best part? Salespeople started asking me to add *more* automation because they realized how much time they were getting back.
-
-**The numbers that made them cry tears of joy:**
-- 95% time savings (40 hours → 2 hours per week)
-- €50K annual ROI (they calculated this, not me)
-- Built in 2 days (I may have forgotten to sleep)
-
-**What it does:** Takes messy, manual sales processes and turns them into smooth, predictable workflows. No more "I forgot to follow up" or "let me look up that prospect's info."
+**📈 Results:**
+- ⚡ **20 minutes** from idea to MVP blueprint
+- 🚀 Accelerated validation process
+- 💰 Reduced wasted resources on unviable concepts
 
 ---
 
-### 👥 The Onboarding Experience That Actually Works
+### 📊 [Trendwatch AI](https://don-anthony-portfolio.vercel.app/)
+**Intelligent market intelligence system delivering daily trend reports with actionable insights**
 
-Most customer onboarding is a series of generic emails and crossed fingers. I built one that adapts to how each customer actually behaves.
+<div align="center">
 
-**The result:** 87% reduction in customer drop-off. Why? Because it responds to what customers actually do, not what we hope they do.
+![Market Intelligence](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
+![Visibility](https://img.shields.io/badge/Trend_Visibility-+200%25-2E86AB?style=flat)
+![Reports](https://img.shields.io/badge/Daily_Reports-Automated-blueviolet?style=flat)
 
-**How it works:**
-- Watches how customers interact with your product
-- Sends personalized guidance based on their behavior
-- Escalates to humans when automation isn't enough
-- Celebrates milestones (because positive reinforcement works)
+</div>
 
-**Built in:** 1.5 days of intensive coffee consumption and workflow debugging.
+**🛠️ Tech Stack:**
+`Web Scraping` `Data Analysis` `Market Intelligence` `AI Insights`
 
----
-
-### 📱 The Content Distribution That Never Sleeps
-
-Content marketing should be about creating great content, not manually posting the same thing to 15 different platforms. 
-
-I built a system that:
-- Takes one piece of content and transforms it for different platforms
-- Schedules posts at optimal times based on audience data
-- Tracks performance and adjusts strategy automatically
-- Saves teams 4 hours per week (which they can use for actual content creation)
-
-**The result:** 300% increase in engagement. Because the right message to the right audience at the right time is magic.
+**📈 Results:**
+- 📈 **200% increased visibility** of emerging micro-trends
+- 📋 **Daily automated reports** for strategic pivots
+- 🎯 Early advantage identification for startups
 
 ---
 
-### 🧾 The Invoice Processing Nightmare That Just Works
+### 📈 [Trading Journal App](https://don-anthony-portfolio.vercel.app/)
+**Advanced journaling platform with LLM-powered reflection and cluster-based scoring logic**
 
-Nobody likes processing invoices. It's tedious, error-prone, and usually involves multiple people doing the same basic checks.
+<div align="center">
 
-I built an invoice processing system that's smarter than most humans at catching errors:
-- 99.2% accuracy rate (better than most manual processes)
-- Automatically routes approvals based on amount and vendor
-- Integrates with existing payment systems
-- Handles exceptions gracefully (because edge cases are reality)
+![In Development](https://img.shields.io/badge/Status-In_Development-orange?style=flat)
+![Improvement](https://img.shields.io/badge/Expected_Improvement-20--25%25-green?style=flat)
 
-**Built in:** 3 days, mostly because I kept adding "just one more feature" and had to resist the urge to over-engineer everything.
+</div>
+
+**🛠️ Tech Stack:**
+`React` `LLM Integration` `Data Visualization` `Behavioral Analysis`
+
+**📈 Expected Results:**
+- 📊 **20-25% improvement** in trading consistency
+- 🧠 LLM-powered reflection and insights
+- 📈 Cluster-based scoring logic
 
 ---
 
-## 🧠 What I Actually Know (And What I'm Still Learning)
+## 🛠️ n8n Automation Portfolio
+
+### ⚡ Enterprise Sales Pipeline Automation
+**Complete sales funnel automation transforming 40-hour/week manual process into 2-hour automated system**
+
+<div align="center">
+
+![Time Saved](https://img.shields.io/badge/Time_Saved-95%25-brightgreen?style=flat)
+![ROI](https://img.shields.io/badge/Annual_ROI-€50K-orange?style=flat)
+![Deployment](https://img.shields.io/badge/Deployment-2_Days-yellowgreen?style=flat)
+
+</div>
+
+**Features:**
+- 🔍 Lead Enrichment
+- 📧 Email Sequences
+- 📊 CRM Updates
+- 📋 Report Generation
+
+---
+
+### 👥 Customer Onboarding Automation
+**End-to-end customer journey automation from signup to first value delivery**
+
+<div align="center">
+
+![Drop-off Reduction](https://img.shields.io/badge/Drop--off_Reduction-87%25-brightgreen?style=flat)
+![Deployment](https://img.shields.io/badge/Deployment-1.5_Days-yellowgreen?style=flat)
+
+</div>
+
+**Features:**
+- 🎉 Welcome Series
+- 📈 Progress Tracking
+- 🆘 Support Routing
+
+---
+
+### 📱 Multi-Platform Content Distribution
+**Automated content syndication across LinkedIn, Twitter, and email with personalized messaging**
+
+<div align="center">
+
+![Engagement](https://img.shields.io/badge/Engagement_+300%25-orange?style=flat)
+![Time Saved](https://img.shields.io/badge/Weekly_Savings-4_Hours-blueviolet?style=flat)
+
+</div>
+
+**Features:**
+- 📅 Content Scheduling
+- 🎯 Audience Targeting
+- 📊 Performance Analytics
+
+---
+
+### 🧾 Invoice Processing & Payment Automation
+**Intelligent invoice data extraction with 99.2% accuracy rate**
+
+<div align="center">
+
+![Accuracy](https://img.shields.io/badge/Accuracy-99.2%25-brightgreen?style=flat)
+![Deployment](https://img.shields.io/badge/Deployment-3_Days-yellowgreen?style=flat)
+
+</div>
+
+**Features:**
+- 📷 OCR Processing
+- ✅ Approval Routing
+- 💳 Payment Integration
+
+---
+
+## 🧠 Skills & Expertise
+
+### 🎯 Core Specializations
 
 <div align="left">
 
-<div class="floating">
+#### 🤖 **n8n Automation Expert** (Expert Level)
+![n8n Expert](https://img.shields.io/badge/n8n-Expert_Level-FF6B6B?style=flat&logo=n8n)
 
-#### ⚡ **n8n Ninja** (I've lost count of how many workflows I've built)
-![n8n Expert](https://img.shields.io/badge/n8n-Built_50+_Workflows-FF6B6B?style=flat&logo=n8n)
+- 🔄 **Workflow Design** & Custom Nodes
+- ⚡ **Error Handling** & Performance Optimization  
+- 🏗️ **Enterprise Deployment**
+- 📊 **50+ Production Workflows** deployed
 
-I don't just use n8n - I dream in nodes and wake up with workflow ideas. If there's a process that can be automated, I'll find a way to do it in n8n. My proudest moment? When I built a workflow so complex that even *I* needed to document it.
+#### 🚀 **Rapid Deployment Stack**
+![Automation Tools](https://img.shields.io/badge/Automation-Master_Level-4ECDC4?style=flat)
 
-**What I can do in n8n:**
-- Build workflows that handle edge cases (because Murphy's Law always applies)
-- Create custom nodes when the existing ones don't quite fit
-- Optimize workflows to run faster than a caffeinated developer
-- Debug issues that make other people cry
+- **Zapier** (Advanced) | **Make** (Integromat)
+- **Airtable** | **Google Workspace** | **Microsoft Power Platform**
+- **API Integration** | **Webhook Management**
 
-</div>
+#### 🎯 **Business Process Optimization**
+![Process Expert](https://img.shields.io/badge/Process-Optimization_Expert-45B7D1?style=flat)
 
-#### 🚀 **The "Quick Fix" Arsenal** (When n8n isn't the right tool)
-![Automation Tools](https://img.shields.io/badge/Automation-I've_Built_Everything-4ECDC4?style=flat)
+- 📊 **Workflow Analysis** & Process Mapping
+- 💰 **ROI Optimization** & Change Management
+- 👥 **User Adoption** & Performance Monitoring
 
-Sometimes n8n isn't the answer. Sometimes you need Zapier. Sometimes you need Make. And sometimes you need to duct-tape three tools together and hope for the best (don't judge me).
+#### 🧠 **AI Integration Specialist**
+![AI Expert](https://img.shields.io/badge/AI-Integration_Specialist-9B59B6?style=flat)
 
-**My toolkit includes:**
-- **Zapier** (Advanced) - When the client already has it
-- **Make** - When I need more flexibility than Zapier offers
-- **API Integrations** - When I need something custom
-- **Google Workspace** - When in doubt, use Sheets as a database
-
-</div>
-
-#### 🎯 **Business Process Whisperer** (Understanding why humans resist automation)
-![Process Expert](https://img.shields.io/badge/Process-Psychology_Focused-45B7D1?style=flat)
-
-The technical stuff is easy. The hard part is making humans *want* to use your automation. That's where my Psychology background comes in handy.
-
-**What I've learned:**
-- People resist change, but they'll embrace it if it saves them time
-- The best automation *feels* invisible
-- ROI matters, but user experience matters more
-- Change management is 80% psychology, 20% technology
+- **OpenAI API** | **Relevance AI** | **Agent Training**
+- **LLM Workflows** | **Sentiment Analysis** | **Data Processing**
 
 </div>
 
-#### 🧠 **AI Integration Enthusiast** (Getting machines to think more like humans)
-![AI Expert](https://img.shields.io/badge/AI-Currently_Training_Agents-9B59B6?style=flat)
+### 💻 Technical Proficiency
 
-I'm not just building with AI - I'm training AI to be better at what it does. At Parsewave, I'm working on making AI agents more intuitive and effective.
+**Programming & Development:**
+`Python` `JavaScript` `React` `Node.js` `API Development` `Web Scraping`
 
-**What I'm working with:**
-- **OpenAI API** - Making AI actually useful beyond chatbots
-- **Relevance AI** - Building AI that understands context
-- **LLM Workflows** - Making language models work in production
-- **Agent Training** - The future of AI, happening now
+**AI/ML Technologies:**
+`OpenAI API` `LangChain` `LLM Integration` `Sentiment Analysis` `Data Processing`
 
-</div>
+**Trading & Finance:**
+`Bybit API` `Trading Automation` `Financial Analysis` `Risk Management`
 
-</div>
-
-### 💻 Code When I Need To
-
-Sometimes automation platforms just aren't enough. Sometimes you need actual code:
-
-**Languages I use when I have to:**
-- **Python** - When I need to build something that does actual work
-- **JavaScript/React** - When I want to build pretty interfaces
-- **API calls** - When I need to talk to services that don't speak "n8n"
-
-**AI/ML that I actually use:**
-- **LangChain** - When I need AI to chain thoughts together
-- **Data Processing** - When I need to make sense of messy data
-- **Web Scraping** - When the internet has information that companies won't share
-
-**Trading stuff I'm obsessed with:**
-- **Bybit API** - Building systems that don't sleep
-- **Financial Analysis** - Turning chaos into patterns
-- **Risk Management** - Because overconfidence kills profits
-
-
+**Tools & Platforms:**
+`n8n` `Zapier` `Make` `Docker` `VPS Setup` `CRM Systems`
 
 ---
 
-## 🎓 The Psychology Thing (That Actually Makes Sense Now)
+---
 
-<div align="left">
+## 🎓 Education & Background
 
-I didn't start college planning to study Psychology. I wanted to be a "normal" developer. But somewhere between learning about human behavior and building my first automation, I realized they were connected.
+### 📚 **University of Ibadan** - BSc Psychology
+**Expected Completion:** 2027 | **Current Status:** 3 years remaining
 
-**University of Ibadan - BSc Psychology** (Expected 2027, though I'll probably finish early because I can't help optimizing my study process)
+**🎯 Focus Areas:**
+- 🧠 **Behavioral Science** - Understanding user adoption patterns
+- 🧭 **Decision-Making** - Optimizing workflow decisions
+- 🎨 **User Experience** - Designing intuitive automation interfaces
 
-**What I'm actually learning:**
-- **Behavioral Science** - Why people resist changes to their workflow (hint: it's not just about resistance to technology)
-- **Decision-Making Theory** - How to make automated decisions feel more intuitive to humans
-- **User Experience Psychology** - Why some automations succeed while others gather digital dust
+**💡 Application in Automation:**
+- Applying psychological principles to improve client onboarding and adoption
+- Understanding human interaction patterns in automated systems
+- Designing user-friendly interfaces for non-technical teams
 
-**How this helps me build better automation:**
-- I understand why people feel threatened by automation (and how to make them feel empowered instead)
-- I design workflows that feel natural, not forced
-- I can predict resistance patterns before they happen
-- I know which change management strategies actually work
-
-**The weird thing:** My psychology courses taught me more about user adoption than any tech course ever could. Turns out, building for humans requires actually understanding humans.
-
-**Current academic project:** Researching the psychological factors that determine whether teams adopt or abandon automation tools. Working title: "Why Smart People Reject Smart Automation" (spoiler: it's usually not the technology).
-
-</div>
+**🧪 Current Research:**
+- Psychological factors in automation tool adoption
+- "Why Smart People Reject Smart Automation" project
+- Behavioral economics of workflow change management
 
 ---
 
-## 💼 Where I Actually Work
+---
+
+## 💼 Professional Experience
 
 ### 🤖 **AI Agent Training Specialist** | *Parsewave*
 **2024 - Present**
 
-This is where things get really interesting. Instead of just building automation for existing systems, I'm helping *create* the next generation of AI that can automate complex tasks without constant human supervision.
+**🎯 Role Focus:** Pioneering AI agent intelligence through advanced training methodologies for terminal-based environments
 
-**What I'm actually doing:**
-- 🔬 **Training AI agents** to handle terminal-based tasks more intelligently
-- ⚡ **Developing optimization protocols** that make AI agents faster and more reliable
-- 📊 **Building analytics frameworks** to measure AI performance in real-world scenarios
-- 🛠️ **Researching** the future of human-AI collaboration
+**Key Responsibilities:**
+- 🔬 **Leading-edge research** in AI agent training protocols
+- ⚡ **Agent optimization** through sophisticated training methodologies  
+- 📊 **Performance analytics** using comprehensive evaluation frameworks
+- 🛠️ **Technical implementation** of AI intelligence systems
 
-**The challenge:** Teaching machines to think more like humans while still being predictable enough for business use. It's like trying to make chess grandmasters that follow your house rules.
-
-**Why this matters:** We're not just automating existing processes anymore - we're creating systems that can adapt, learn, and improve without constant human input.
+**Impact:** Working on the future of human-AI collaboration in enterprise environments
 
 ---
 
 ### 🔧 **AI & Automation Specialist** | *Freelance/Contract*
 **2023 - Present**
 
-This is where I cut my teeth on actually building automation that matters to real people with real problems.
+**🌟 Client-Centric Approach:**
+- 📊 **Proven Results:** 90% time reductions, 25% conversion improvements
+- 🎯 **Business Impact:** Delivers measurable ROI within the first week
+- 👥 **Client-Focused:** Solves real business problems for non-technical teams
+- 🌍 **Global Reach:** Remote-first approach with international clients
 
-**What I actually do for clients:**
-- 🎯 **Listen to their pain points** (you'd be amazed how often technology isn't the answer)
-- 🛠️ **Build solutions that don't make them feel stupid** (this is harder than it sounds)
-- 📈 **Prove ROI quickly** (because trust is built on results, not promises)
-- 🎓 **Train their teams** (because the best automation is useless if no one knows how to use it)
+**📈 Key Achievements:**
+- 💰 **€50K+ Annual ROI** delivered to enterprise clients
+- ⚡ **50+ Production Workflows** built and deployed
+- 🏆 **95% Client Satisfaction** across all projects
+- 🚀 **2.6x Faster Deployment** than industry standards
 
 **Real results I actually delivered:**
 - €50K+ in annual ROI for one client (they calculated this, not me)
@@ -355,18 +346,17 @@ This is where I cut my teeth on actually building automation that matters to rea
 
 <div align="center">
 
-<!-- Animated GIF Background -->
-<div style="background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%; animation: gradientShift 20s ease infinite; padding: 30px; border-radius: 25px; box-shadow: 0 10px 40px rgba(0,0,0,0.2); position: relative; overflow: hidden;">
+```
+    💭 ════════════════════════════════════════════════════════════════ 💭
+    
+              🎯 Key Insights from 50+ Deployments 🎯
+    
+    💭 ════════════════════════════════════════════════════════════════ 💭
+```
 
-<!-- Floating Elements -->
-<div class="floating" style="position: absolute; top: 10%; left: 10%; font-size: 2em;">🤖</div>
-<div class="floating" style="position: absolute; top: 20%; right: 15%; font-size: 1.5em; animation-delay: 1s;">⚡</div>
-<div class="floating" style="position: absolute; bottom: 15%; left: 20%; font-size: 1.8em; animation-delay: 2s;">🚀</div>
-<div class="floating" style="position: absolute; bottom: 25%; right: 10%; font-size: 1.3em; animation-delay: 3s;">🧠</div>
+</div>
 
-<div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-
-## 💭 Things I Actually Believe
+---
 
 > "The best automation feels invisible - users don't think about it, they just get their work done better." - *Lessons from 50+ deployments*
 
@@ -374,13 +364,7 @@ This is where I cut my teeth on actually building automation that matters to rea
 
 > "If your automation makes humans feel stupid, you've built it wrong." - *The golden rule of UX in automation*
 
-> "Efficiency isn't about doing things faster - it's about doing the right things more consistently." - *The difference between optimization and obsession*
-
-</div>
-
-</div>
-
-</div>
+> "Efficiency isn't about doing things faster - it's about doing the right things more consistently."
 
 ---
 
@@ -406,19 +390,15 @@ This is where I cut my teeth on actually building automation that matters to rea
 
 <div align="center">
 
-![Time Reduction](https://img.shields.io/badge/Time_Reduction-90%25-brightgreen?style=for-the-badge)
-![Error Reduction](https://img.shields.io/badge/Error_Reduction-90%25-red?style=for-the-badge)
-![Conversion Improvement](https://img.shields.io/badge/Conversion_+25%25-orange?style=for-the-badge)
-![ROI Delivery](https://img.shields.io/badge/ROI_First_Week-100%25-blue?style=for-the-badge)
+![Time Reduction](https://img.shields.io/badge/Time_Reduction-90%25-brightgreen?style=flat)
+![Error Reduction](https://img.shields.io/badge/Error_Reduction-90%25-red?style=flat)
+![Conversion Improvement](https://img.shields.io/badge/Conversion_+25%25-orange?style=flat)
+![ROI Delivery](https://img.shields.io/badge/ROI_First_Week-100%25-blue?style=flat)
 
-</div>
-
-<div align="center">
-
-![Workflows Built](https://img.shields.io/badge/Workflows_Built-50+-blueviolet?style=for-the-badge)
-![Deployment Speed](https://img.shields.io/badge/Deployment_Speed-2.6x_Faster-4ECDC4?style=for-the-badge)
-![Client Satisfaction](https://img.shields.io/badge/Client_Satisfaction-95%25-green?style=for-the-badge)
-![Annual ROI](https://img.shields.io/badge/Annual_ROI-€50K+-orange?style=for-the-badge)
+![Workflows Built](https://img.shields.io/badge/Workflows_Built-50+-blueviolet?style=flat)
+![Deployment Speed](https://img.shields.io/badge/Deployment_Speed-2.6x_Faster-4ECDC4?style=flat)
+![Client Satisfaction](https://img.shields.io/badge/Client_Satisfaction-95%25-green?style=flat)
+![Annual ROI](https://img.shields.io/badge/Annual_ROI-€50K+-orange?style=flat)
 
 </div>
 
@@ -462,7 +442,7 @@ This is where I cut my teeth on actually building automation that matters to rea
 
 <div align="center">
 
-<div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); background-size: 400% 400%; animation: gradientShift 25s ease infinite; padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.15);">
+
 
 ![Status](https://img.shields.io/badge/Currently_Building-Scaling_AI_Agents-blue?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Learning_Cognitive_Science-purple?style=for-the-badge)
@@ -561,38 +541,53 @@ This is where I cut my teeth on actually building automation that matters to rea
 
 <div align="center">
 
-<!-- Fun Animated Section -->
-<div style="background: linear-gradient(45deg, #f093fb 0%, #f5576c 50%, #4facfe 100%); background-size: 400% 400%; animation: gradientShift 30s ease infinite; padding: 20px; border-radius: 20px;">
-
-<div class="floating">
-
 ```
     🌟 ════════════════════════════════════════════════════════════════ 🌟
     
-              🎉  YOU'VE REACHED THE END!  🎉
+              🎉  THANK YOU FOR VISITING!  🎉
     
-                    Thanks for visiting! 👋
-    
-            Let's build something amazing together! 🚀
+                Let's build something amazing together! 🚀
     
     🌟 ════════════════════════════════════════════════════════════════ 🌟
 ```
-
-</div>
-
-</div>
 
 </div>
 
 ---
 
+## 🌐 Let's Connect
+
 <div align="center">
 
-**[🏠 Portfolio](https://don-anthony-portfolio.vercel.app/)** • **[📧 Let's Talk](mailto:tomilolanaomi22@gmail.com)** • **[💼 LinkedIn](https://linkedin.com/in/don-anthony)** • **[🐦 Twitter](https://twitter.com/don_anthony)**
-
-**_Always looking for the next automation challenge! 🤝_**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-2E86AB?style=flat&logo=website)](https://don-anthony-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-FF6B6B?style=flat&logo=gmail)](mailto:tomilolanaomi22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/don-anthony)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/don_anthony)
 
 </div>
+
+---
+
+## 🎯 Available For
+
+<div align="center">
+
+![Available](https://img.shields.io/badge/Status-Available_for_Opportunities-brightgreen?style=flat)
+
+</div>
+
+**💼 Open to Remote Opportunities Globally:**
+- 🤖 **AI/ML Engineer** positions
+- ⚡ **n8n Automation Specialist** roles  
+- 🏗️ **Automation Architect** opportunities
+- 🚀 **Product Engineer** positions
+- 👨‍💼 **Technical Leadership** roles
+- 📋 **Consulting Projects**
+- 💡 **Other Innovation Opportunities**
+
+**🌍 Work Style:** Remote-first, experienced in managing multiple client projects across time zones with async communication tools.
+
+---
 
 ---
 
